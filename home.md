@@ -11,8 +11,8 @@
 #### Automating Compute Tasks with Python (coming soon)
 ## Consequences of Technologies
 ### Problems with Technologies
-#### Intro to Algorithmic Bias
+#### [Intro to Algorithmic Bias](/consequences/problems/bias)
 
-## Healthy Tech Use
-### Social Media and Mental Health
-### Health Effects of Computer Usage
+### Healthy Tech Use
+#### Social Media and Mental Health
+#### Health Effects of Computer Usage
