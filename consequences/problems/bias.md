@@ -3,15 +3,16 @@
 
 # Introduction:
 ## What is an algorithm? 
-	* When you hear the word algorithm, what comes to mind? What are some examples of algorithms?
-		* Math problems
-		* Recipes 
-		* Computer Programs
-	* Formalized Definition of an Algorithm from Merriam Webster Dictionary
-		* A procedure for solving a mathematical problem in a finite number of steps that frequently involves repetition of an operation
-		* Broadly : a step-by-step procedure for solving a problem or accomplishing some end
-	* Informal definition
-		 * it’s basically logic that is formalized and repeatable, so the same inputs create the same outputs. 
+
+* When you hear the word algorithm, what comes to mind? What are some examples of algorithms?
+	* Math problems
+	* Recipes 
+	* Computer Programs
+* Formalized Definition of an Algorithm from Merriam Webster Dictionary
+	* A procedure for solving a mathematical problem in a finite number of steps that frequently involves repetition of an operation
+	* Broadly : a step-by-step procedure for solving a problem or accomplishing some end
+* Informal definition
+	* it’s basically logic that is formalized and repeatable, so the same inputs create the same outputs. 
 
 # Activity 1: Create Algorithm for getting dinner
 ## What logic goes into creating an  algorithm?
